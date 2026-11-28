@@ -1,4 +1,4 @@
--- Day 2: functions, CASE, COALESCE (Northwind, PostgreSQL)
+ -- Day 2: functions, CASE, COALESCE (Northwind, PostgreSQL)
 
 -- Northwind task 1: standardize customers
 SELECT customer_id,
